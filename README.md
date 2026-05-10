@@ -1,2 +1,2 @@
 # BigStore
-soon
+Discord Bot BigStore
